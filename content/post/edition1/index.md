@@ -14,7 +14,7 @@ date = "2021-09-25"
 #]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "banner.jpg"
+image = "banner.webp"
 +++
 
 Our first edition just completed!
