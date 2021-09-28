@@ -42,7 +42,7 @@ params:
         subtitle: Free self-organized hiking group in NRW, Germany
         avatar:
             enabled: true
-            local: true
+            local: false
             src: logo.png
 
     article:
