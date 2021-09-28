@@ -43,7 +43,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: logo.png
+            src: /logo.png
 
     article:
         math: false
