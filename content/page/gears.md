@@ -6,7 +6,7 @@ menu:
         pre: link
 ---
 
-Here is a list of suggested gears you should consider bring depending on how far you want to go:
+Here is a list of suggested gears you should consider bringing:
 - Headlamp with front and back lights (2x or with spare battery)  
 - Food  
 - Water (1.5L or more)
