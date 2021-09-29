@@ -28,6 +28,7 @@ Here is a list of suggested gears you should consider bringing:
 - GPS Watch
 - Ibuprofen
 - USB Battery pack
+- Hicking backpack (eg 20L)
 
 Here are couple of examples:
 - Led Lenser headlamp: https://www.ledlenser.com/en/products/headlamps/outdoor/mh7 
