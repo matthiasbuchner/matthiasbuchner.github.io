@@ -30,8 +30,8 @@ Here is a list of suggested gears you should consider bring depending on how far
 - USB Battery pack
 
 Here are couple of examples:
-- Black diamond headlamp: https://www.blackdiamondequipment.com/en_US/product/sprinter-275-headlamp/
 - Led Lenser headlamp: https://www.ledlenser.com/en/products/headlamps/outdoor/mh7 
+- Black diamond headlamp: https://www.blackdiamondequipment.com/en_US/product/sprinter-275-headlamp/
 - Fusspuder https://www.gehwol.de/GEHWOL-Fusspuder-100-g-Dose
 - Compeed https://www.compeed.de/produkt/compeed-blasenpflaster-mixpack-schachtel/
 - Falke socks: https://www.falke.com/de_de/ 
