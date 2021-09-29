@@ -6,7 +6,7 @@ menu:
         pre: user
 ---
 
-Our next hike is planned for November 18th, 2021! See all the details [here](https://www.fools100.com/p/join-our-2nd-edition/)
+Our next hike is planned for November 18th, 2021! See all the details [here](/p/join-our-next-hike-on-november-20th-2021/)
 
 - You don't need to register, just show up at the right place and right time :D
 - It is free.
