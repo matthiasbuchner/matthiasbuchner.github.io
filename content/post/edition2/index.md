@@ -20,19 +20,19 @@ You can get a sneak peak of the landscape on the komoot [link](https://www.komoo
   
 
 
-***When:***  
-Departure: Saturday November 20th, 2021 approx. ?:??AM   
-Arrival: Sunday November 21th, 2021
+## When
+**Departure**: Saturday November 20th, 2021 approx. ?:??AM   
+**Arrival**: Sunday November 21th, 2021
 
-***Starting Point:***  
+## Starting Point  
 Hagen Hbf (the train from Dusseldorf departing at xx:xx arrives at xx:xx)  
 Google Maps link: <here>  
 
-***Finish Point:***  
+## Finish Point  
 Grafenber parking lot  
 Google Maps link: 
 
-***Route***  
+## Route
 Route on Komoot: link  
 Route on Strava: link  
 GPX file: link  
@@ -40,7 +40,7 @@ GPX file: link
 <incl. route and elevation pic>
 
 
-***Segments:***    
+## Segments    
 Segment 1 -   
 
 
@@ -57,4 +57,5 @@ Segment 6 -
 
 Segment 7 -  
 
+## Time table
 <incl. time table>  
