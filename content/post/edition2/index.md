@@ -7,14 +7,17 @@ image = "banner.webp"
 
 For this hike, we will start from Hagen and walk towards Dusseldorf.
 You will have a choice to hike:  
-- 25 km by stopping in Gevelberg
-- 50 km by stopping Wuppertal
+- 25 km by stopping at the Ennepetal/Schwelm Hbf
+- 50 km by stopping at the Wuppertal Hbf
 - 100 km by going all the way to Dusseldorf
+
+You can get a sneak peak of the landscape on the komoot [link](https://www.komoot.com/tour/502046977).
 
 # [Join us!](/join-us/)
 
-
-For this hike, we are not planning to stop at a restaurant for lunch, so everyone will have to bring food/sandwhich. We expect wet and muddy terrain, so we'll all need good waterproof shoes. You can get a sneak peak of the landscape on the kommot [link](https://www.komoot.com/tour/502046977).  
+> For this hike, we are not planning to stop at a restaurant for lunch, so everyone will have to bring their own food/sandwhich.   
+> We expect wet and muddy terrain, so we'll all need good waterproof shoes.
+  
 
 
 ***When:***  
