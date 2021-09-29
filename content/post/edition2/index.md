@@ -14,13 +14,12 @@ You will have a choice to hike:
 # [Join us!](/join-us/)
 
 
-For this hike, we are not planning to stop at a restaurant for lunch, so everyone will have to bring food/sandwhich.
+For this hike, we are not planning to stop at a restaurant for lunch, so everyone will have to bring food/sandwhich. We expect wet and muddy terrain, so we'll all need good waterproof shoes.
 
 
 ***When:***  
 Departure: Saturday November 20th, 2021 approx. ?:??AM   
 Arrival: Sunday November 21th, 2021
-
 
 ***Starting Point:***  
 Hagen Hbf (the train from Dusseldorf departing at xx:xx arrives at xx:xx)  
