@@ -9,7 +9,7 @@ For this hike, we will start from Hagen and walk towards Dusseldorf.
 You will have a choice to hike:  
 - 25 km by stopping in Gevelberg
 - 50 km by stopping Wuppertal
-- 100 km
+- 100 km by going all the way to Dusseldorf
 
 # [Join us!](/join-us/)
 
