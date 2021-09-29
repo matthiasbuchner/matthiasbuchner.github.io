@@ -29,7 +29,7 @@ Hagen Hbf (the train from Dusseldorf departing at xx:xx arrives at xx:xx)
 Google Maps link: https://goo.gl/maps/eaMJPb4FLPMyKU738 
 
 ## Finish Point  
-Grafenber parking lot  
+Grafenberg parking lot  
 Google Maps link: 
 
 ## Route
