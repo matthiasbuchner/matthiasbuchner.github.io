@@ -26,7 +26,7 @@ You can get a sneak peak of the landscape on the komoot [link](https://www.komoo
 
 ## Starting Point  
 Hagen Hbf (the train from Dusseldorf departing at xx:xx arrives at xx:xx)  
-Google Maps link: <here>  
+Google Maps link: https://goo.gl/maps/eaMJPb4FLPMyKU738 
 
 ## Finish Point  
 Grafenber parking lot  
@@ -58,4 +58,7 @@ Segment 6 -
 Segment 7 -  
 
 ## Time table
-<incl. time table>  
+<incl. time table>
+
+## Notes
+The RE4 train schedule from Hagen is available [here](Result.pdf). Check the DB Navigator app for the updated train schedule. 
