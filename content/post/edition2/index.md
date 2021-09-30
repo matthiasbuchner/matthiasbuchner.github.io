@@ -16,7 +16,7 @@ You can get a sneak peak of the landscape on the komoot [link](https://www.komoo
 # [Join us!](/join-us/)
 
 > For this hike, we are not planning to stop at a restaurant for lunch, so everyone will have to bring their own food/sandwhich.   
-> We expect wet and muddy terrain, so we'll all need good waterproof shoes.
+> We expect wet and muddy terrain, so we'll all need good waterproof shoes and clothes.
   
 
 
@@ -34,8 +34,7 @@ Google Maps link:  Google Maps [link](https://goo.gl/maps/eaMJPb4FLPMyKU738)
 
 ## Route
 Route on [Komoot](https://www.komoot.com/tour/502046977)    
-Route on Strava: tbd
-GPX file: tbd
+GPX file: [Download](fools100-2.gpx)
 
 ## Refill Stops    
 Stop #1 -  Ennepetal 11.7 
