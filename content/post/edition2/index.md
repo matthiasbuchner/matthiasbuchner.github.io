@@ -36,21 +36,21 @@ Google Maps link:  Google Maps [link](https://goo.gl/maps/eaMJPb4FLPMyKU738)
 Route on [Komoot](https://www.komoot.com/tour/502046977)    
 GPX file: [Download](fools100-2.gpx)
 
-## Refill Stops    
-Stop #1 -  Ennepetal 11.7 
+## Refill Stops   
+Stop #1 -  Ennepetal  
 Stop at Netto  
 https://goo.gl/maps/yM7RSeVazUAbJMpn7  
 
-Stop #2 - BeyenBurger  25
+Stop #2 - BeyenBurger  
 Birks Imbiss  
 https://goo.gl/maps/namu3yERA3aHRovn8  
   
-Stop #3 - Wuppertal 33
-Stop at Aldi
+Stop #3 - Wuppertal 
+Stop at Aldi  
 https://goo.gl/maps/QQuPbZEB5u7m4QhG7
 
-Stop #4 -  Solingen 41
-Kaffeehaus Solingen
+Stop #4 -  Solingen 
+Kaffeehaus Solingen  
 https://goo.gl/maps/emg5UQY5ogZ8QJ3SA
 
 Stop #5 - Erkrath 53.2
