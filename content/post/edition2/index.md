@@ -15,7 +15,7 @@ You can get a sneak peak of the landscape on the komoot [link](https://www.komoo
 
 # [Join us!](/join-us/)
 
-> For this hike, we are not planning to stop at a restaurant for lunch, so everyone will have to bring their own food/sandwhich.   
+> We are not planning to stop at a restaurant for lunch, so everyone will have to bring their own food/sandwhich.   
 > We expect wet and muddy terrain, so we'll all need good waterproof shoes and clothes.
   
 
@@ -30,7 +30,7 @@ Google Maps [link](https://www.google.com/maps/@51.3619643,7.4616263,3a,75y,163.
 
 ## Finish Point  
 Grafenberg parking lot  
-Google Maps link:  Google Maps [link](https://goo.gl/maps/eaMJPb4FLPMyKU738)   
+Google Maps link: [link](https://goo.gl/maps/eaMJPb4FLPMyKU738)   
 
 ## Route
 Route on [Komoot](https://www.komoot.com/tour/502046977)    
