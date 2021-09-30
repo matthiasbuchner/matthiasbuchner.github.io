@@ -45,16 +45,16 @@ Stop #2 - BeyenBurger
 Birks Imbiss  
 https://goo.gl/maps/namu3yERA3aHRovn8  
   
-Stop #3 - Wuppertal 
+Stop #3 - Wuppertal   
 Stop at Aldi  
 https://goo.gl/maps/QQuPbZEB5u7m4QhG7
 
-Stop #4 -  Solingen 
+Stop #4 -  Solingen  
 Kaffeehaus Solingen  
 https://goo.gl/maps/emg5UQY5ogZ8QJ3SA
 
-Stop #5 - Erkrath 53.2
-Penny
+Stop #5 - Erkrath 53.2  
+Penny  
 https://goo.gl/maps/C1kuTqWzjiMFbxL29  
 
 ## Time table
