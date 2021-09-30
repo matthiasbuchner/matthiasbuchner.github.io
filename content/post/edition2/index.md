@@ -57,7 +57,7 @@ Stop #5 - Erkrath
 Penny  
 https://goo.gl/maps/C1kuTqWzjiMFbxL29  
 
-## Time table
+## Time Table
 | Stop | Location    | Miles | Diff (miles) | km   | Diff (km) | Est. Time | Est. Clock  |
 |------|-------------|-------|--------------|------|-----------|-----------|-------------|
 |      | Hagen       |     0 |            0 |    0 |         0 |         0 |  7:15:00 AM |
