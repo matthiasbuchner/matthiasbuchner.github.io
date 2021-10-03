@@ -7,11 +7,9 @@ image = "route.webp"
 
 For this hike, we will start from Hagen and walk towards Dusseldorf.
 You will have a choice to hike:  
-- 25 km by stopping at the Ennepetal/Schwelm Hbf
-- 50 km by stopping at the Wuppertal Hbf
-- 100 km by going all the way to Dusseldorf
-
-You can get a sneak peak of the landscape on the komoot [link](https://www.komoot.com/tour/502046977).
+- 25 km by stopping at the Schwelm Hbf: [Route on Komoot](https://www.komoot.com/tour/505828696) [GPX](Fools-2-25km.gpx)
+- 50 km by stopping at the Wuppertal Hbf [Route on Komoot](https://www.komoot.com/tour/505836394) [GPX](Fools-2-50km.gpx)
+- 100 km by going all the way to Dusseldorf [Route on Komoot](https://www.komoot.com/tour/502046977) [GPX](fools100-2.gpx)
 
 # [Join us!](/join-us/)
 
@@ -31,10 +29,6 @@ Google Maps [link](https://www.google.com/maps/@51.3619643,7.4616263,3a,75y,163.
 ## Finish Point  
 Grafenberg parking lot  
 Google Maps link: [link](https://goo.gl/maps/eaMJPb4FLPMyKU738)   
-
-## Route
-Route on [Komoot](https://www.komoot.com/tour/502046977)    
-GPX file: [Download](fools100-2.gpx)
 
 ## Refill Stops   
 Stop #1 -  Ennepetal  
