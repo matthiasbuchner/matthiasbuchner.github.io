@@ -36,4 +36,4 @@ Here are couple of examples:
 - Fusspuder https://www.gehwol.de/GEHWOL-Fusspuder-100-g-Dose
 - Compeed https://www.compeed.de/produkt/compeed-blasenpflaster-mixpack-schachtel/
 - Falke socks: https://www.falke.com/de_de/ 
-
+- Garmin 6X Pro (w/ map): https://buy.garmin.com/de-DE/DE/p/641435/pn/010-02157-01
