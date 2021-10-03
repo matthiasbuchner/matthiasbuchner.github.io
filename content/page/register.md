@@ -28,3 +28,5 @@ Our next hike is planned for November 18th, 2021! See all the details [here](/p/
 - We planned the route on Strava and Komoot. It is possible the path will not accessible or usable. In this case, we’ll find a way around.
 - There is no hotel or camping planned along the route. We are planning on sleeping on the trail.
 - If your legs are sore... well that that's not a if, they will be for sure!
+
+You can also join our [Strava Club](https://www.strava.com/clubs/fools100)
