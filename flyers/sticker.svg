@@ -11,8 +11,8 @@
    sodipodi:docname="sticker.svg"
    inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
    inkscape:export-filename="/home/mattb/fools100/matthiasbuchner.github.io/flyers/sticker.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="599.89331"
+   inkscape:export-ydpi="599.89331"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -44,7 +44,7 @@
      showgrid="false"
      inkscape:zoom="0.585"
      inkscape:cx="450.42735"
-     inkscape:cy="-35.042735"
+     inkscape:cy="238.46154"
      inkscape:window-x="1992"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -66,10 +66,10 @@
        style="display:inline">
 
 <rect
-   style="opacity:1;fill:#ffffff;stroke-width:7.5"
+   style="opacity:1;fill:#ffffff;stroke-width:7.08003"
    id="rect146479"
-   width="5297.0347"
-   height="5079.6416"
+   width="4845.1147"
+   height="4948.894"
    x="-442.84851"
    y="-6665.7686"
    transform="scale(1,-1)"
@@ -427,4 +427,18 @@
    height="3914.302"
    x="302.42825"
    y="-6130.1777"
-   transform="scale(1,-1)" /></g></g></svg>
+   transform="scale(1,-1)" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:300px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.5"
+   x="6861.188"
+   y="-2032.2577"
+   id="text544"
+   transform="scale(1,-1)"
+   inkscape:export-filename="/home/mattb/fools100/matthiasbuchner.github.io/flyers/text544.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><tspan
+     sodipodi:role="line"
+     id="tspan542"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:7.5"
+     x="6861.188"
+     y="-2032.2577">graphics from vecteezy.com</tspan></text></g></g></svg>
