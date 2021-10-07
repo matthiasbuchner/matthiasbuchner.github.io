@@ -48,7 +48,7 @@ Kaffeehaus Solingen
 https://goo.gl/maps/emg5UQY5ogZ8QJ3SA
 
 Stop #5 - Erkrath   
-<TBD>
+TBD
 
 ## Time Table (100km)
 | Stop | Location    | Miles | Diff (miles) | km   | Diff (km) | Est. Time | Est. Clock  |
