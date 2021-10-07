@@ -48,10 +48,9 @@ Kaffeehaus Solingen
 https://goo.gl/maps/emg5UQY5ogZ8QJ3SA
 
 Stop #5 - Erkrath   
-Penny  
-https://goo.gl/maps/C1kuTqWzjiMFbxL29  
+<TBD>
 
-## Time Table
+## Time Table (100km)
 | Stop | Location    | Miles | Diff (miles) | km   | Diff (km) | Est. Time | Est. Clock  |
 |------|-------------|-------|--------------|------|-----------|-----------|-------------|
 |      | Hagen       |     0 |            0 |    0 |         0 |         0 |  7:15:00 AM |
