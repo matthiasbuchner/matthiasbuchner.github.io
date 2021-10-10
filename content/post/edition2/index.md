@@ -13,14 +13,14 @@ You will have a choice to hike:
 
 # [Join us!](/join-us/)
 
-> We are not planning to stop at a restaurant for lunch, so everyone will have to bring their own food/sandwhich.   
+> We are not planning to stop at a restaurant for lunch, so everyone will have to bring their own food/sandwich.   
 > We expect wet and muddy terrain, so we'll all need good waterproof shoes and clothes.
   
 
 
 ## When
-**Departure**: Saturday November 20th, 2021 approx. 7:30 AM. There is an RE4 which leaves Dusseldorf Hbf at 6:42 and arrives in Hagen at 7:25.     
-**Arrival**: Sunday November 21th, 2021 if you do the full distance  
+**Departure**: Saturday, November 20th, 2021 approx. 7:30 AM. There is an RE4 that leaves Dusseldorf Hbf at 6:42 and arrives in Hagen at 7:25.     
+**Arrival**: Sunday, November 21th, 2021 if you do the full distance  
 
 ## Starting Point  
 Hagen Hbf - at the Berliner Platz, near the McDonald and the clock tower  
