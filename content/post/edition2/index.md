@@ -1,6 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Join our next hike on November 20th, 2021"
+date = "2021-11-20"
 image = "routes.webp"
 +++
 
