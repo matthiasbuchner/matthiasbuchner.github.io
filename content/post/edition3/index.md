@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Join our next hike on February 12th and 13th, 2022"
-date = "2022-02-12"
+date = "2022-01-18"
 image = "mosel.jpeg"
 +++
 
