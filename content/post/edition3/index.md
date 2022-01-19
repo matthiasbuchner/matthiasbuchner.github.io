@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Join our next hike on February 12th and 13th, 2022"
 date = "2022-02-12"
-image = "routes.webp"
+image = "mosel.jpeg"
 +++
 
 ## The plan
