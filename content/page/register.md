@@ -6,9 +6,9 @@ menu:
         pre: user
 ---
 
-Our next hike is planned for November 18th, 2021! See all the details [here](/p/join-our-next-hike-on-november-20th-2021/)
+Our next hike is planned for February 12th, 2022!
 
-> Register on [Eventbrite](https://www.eventbrite.com/e/fools-100-hike-fron-hagen-to-dusseldorf-tickets-182582076907)
+> Register on [Eventbrite](https://www.eventbrite.com/e/fools-100-hike-from-konz-to-trier-to-schweich-tickets-251102352897)
 
 
 - Show up at the right place and right time :D
