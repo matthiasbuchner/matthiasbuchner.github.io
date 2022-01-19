@@ -16,7 +16,7 @@ Both are about 20km.
 
 # [Join us!](/join-us/)
 
-> Lunch stop TBD   
+> Lunch stop, dinner and hotel location TBD   
 > The terrain may be wet and muddy, so we'll all need good waterproof shoes and clothes.
   
 ## When
