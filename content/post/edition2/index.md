@@ -10,7 +10,7 @@ We completed this hike. Here is a video of our adventure!
 
 {{< youtube cJpb5Rp-qFg >}}
 
-
+## The plan
 For this hike, we will start from Hagen and walk towards Dusseldorf.
 You will have a choice to hike:  
 - 25 km by stopping at the Schwelm Hbf: [Route on Komoot](https://www.komoot.com/tour/505828696) [GPX](Fools-2-25km.gpx)
