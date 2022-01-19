@@ -1,9 +1,14 @@
 +++
 author = "Hugo Authors"
 title = "Join our next hike on November 20th, 2021"
-date = "2021-09-29"
 image = "routes.webp"
 +++
+
+## Update
+We completed this hike. Here is a video of our adventure!
+
+{{< youtube cJpb5Rp-qFg >}}
+
 
 For this hike, we will start from Hagen and walk towards Dusseldorf.
 You will have a choice to hike:  
