@@ -20,6 +20,8 @@ Both are about 20km.
 > The terrain may be wet and muddy, so we'll all need good waterproof shoes and clothes.
   
 ## When
-**Departure from Konz**: Saturday, February 12th, 2022 approx. 9:50 AM. There is a train leaving Dusseldorf Hbf at 05:27 and arriving in Konz at 9:39 with a connection in Cologne.  
+**Departure from Konz**: Saturday, February 12th, 2022 approx. 9:50 AM. 
 
 **Departure from Trier**: Sunday, February 13th, 2022. Time TBD  
+
+There is a train leaving Dusseldorf Hbf at 05:27 and arriving in Konz at 9:39 with a connection in Cologne.  
