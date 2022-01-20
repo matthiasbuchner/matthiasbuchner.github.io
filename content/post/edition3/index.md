@@ -29,4 +29,4 @@ We can have lunch in Ehrang. Once we arrive in Schweich, we can either shorten t
 
 **Departure from Trier**: Sunday, February 13th, 2022. Time TBD  
 
-There is a train leaving Dusseldorf Hbf at 06:27 and arriving in Konz at 9:39 with a connection in Cologne.  
+There is a train leaving Dusseldorf Hbf at 06:27 AM and arriving in Konz at 9:39 AM with a connection in Cologne.  
