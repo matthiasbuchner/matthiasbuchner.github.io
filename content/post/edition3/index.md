@@ -9,7 +9,7 @@ image = "mosel.jpeg"
 We will hike along the Mosel river. We will start from Konz, stop overnight in Trier, then hike to Schweich. The total distance is 40km, 20km each day.
 
 ### Konz to Trier
-The details of the route from Konz to Trier is avalable [here](https://www.visitmosel.de/tour/moselsteig-etappe-04-konz-trier).
+The details of the route from Konz to Trier is available [here](https://www.visitmosel.de/tour/moselsteig-etappe-04-konz-trier).
 
 We can take a break or late lunch at Cafe Mohrenkopf [here](https://goo.gl/maps/NMYh9eFx2tLAP1bf7). It is at KM 16 (Mile 10) on our route.
 
